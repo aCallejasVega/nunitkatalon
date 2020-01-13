@@ -1,0 +1,14 @@
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnitKatalon.deps.json
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnitKatalon.runtimeconfig.json
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnitKatalon.runtimeconfig.dev.json
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnitKatalon.dll
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\bin\Debug\netcoreapp2.1\NUnitKatalon.pdb
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\obj\Debug\netcoreapp2.1\NUnitKatalon.csproj.CoreCompileInputs.cache
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\obj\Debug\netcoreapp2.1\NUnitKatalon.AssemblyInfoInputs.cache
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\obj\Debug\netcoreapp2.1\NUnitKatalon.AssemblyInfo.cs
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\obj\Debug\netcoreapp2.1\NUnitKatalon.dll
+C:\Users\pquispe\source\repos\NUnitKatalon\NUnitKatalon\obj\Debug\netcoreapp2.1\NUnitKatalon.pdb
